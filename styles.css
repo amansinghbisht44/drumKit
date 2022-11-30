@@ -79,3 +79,15 @@ footer {
   margin: 10px;
   background-color: white;
 }
+
+.inp{
+  border-radius: 5px;
+  width: 220px;
+  background-color: cyan;
+  color: black;
+  height: 20px;
+  border: 2px solid green;
+  margin-bottom: 30px;
+
+}
+
